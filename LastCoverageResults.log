@@ -1,0 +1,21 @@
+[2024-05-09 16:16:58] [info] Start Program:
+Path:"C:\Users\Asus\source\repos\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe"
+Arguments:
+Working directory: "C:\Users\Asus\source\repos\QtWidgetsApplication1\"
+Modules: Selected: C:\Users\Asus\source\repos\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe Excluded: 
+Sources: Selected: C:\Users\Asus\source\repos\QtWidgetsApplication1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Asus\AppData\Local\Temp\5tn2jypl.yjw 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2024-05-09 16:16:58] [info] Module: C:\Users\Asus\source\repos\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe is selected because it matches selected pattern: C:\Users\Asus\source\repos\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
+[2024-05-09 16:17:01] [info] ----------------------------------------------------
+[2024-05-09 16:17:01] [info] Coverage binary generated in file: C:\Users\Asus\AppData\Local\Temp\5tn2jypl.yjw
+[2024-05-09 16:17:01] [info] ----------------------------------------------------
